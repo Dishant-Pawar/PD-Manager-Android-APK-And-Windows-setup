@@ -8,7 +8,7 @@ A cross-platform Flutter password manager with a strong emphasis on security, su
 
 ### Multiple Authentication Methods
 
-#### 1. Clerk Email OTP Authentication
+#### 1. Email OTP Authentication
 - User accounts via email one-time-password (OTP)
 - Registration with email verification
 - Login via magic link / OTP
