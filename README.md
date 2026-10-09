@@ -4,6 +4,11 @@ A cross-platform Flutter password manager with a strong emphasis on security, su
 
 ---
 
+## PDManager.exe  ---------- For Windows
+
+## PDManager2.apk ---------- For Android
+---
+
 ## 🔐 Authentication System
 
 ### Multiple Authentication Methods
